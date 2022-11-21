@@ -19,4 +19,6 @@ pnpm run dev
 yarn dev
 ```
 
+<img src="./static/screenshot.png" width="800px" height="620px">
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
